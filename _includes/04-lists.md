@@ -6,3 +6,6 @@ Replace this with a list of your favorite things.
 - 金
 - 土
 - 日
+
+**太字** <br>
+_Italic_
